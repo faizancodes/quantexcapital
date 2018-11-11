@@ -1,0 +1,2 @@
+# quantexcapital
+Technical Analysis
